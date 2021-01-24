@@ -12,7 +12,6 @@ abcdef
 ebcd af
 
 */
-
 #include <iostream>
 #include <string>
 using namespace std;
